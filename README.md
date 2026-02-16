@@ -42,6 +42,8 @@ The core intelligence of Helios-Sync was trained on Kaggle using accelerated GPU
 | Module Name | AI Architecture | Functionality | Training Notebook |
 | :--- | :--- | :--- | :--- |
 | **Helios Brain** | **LSTM + PPO (RL)** | **Energy Optimization.** Combines Time-Series Forecasting (LSTM) with Reinforcement Learning (PPO) to learn the optimal policy for battery charging and discharging. | [🔗 View Kaggle Notebook (RL/LSTM)](https://www.kaggle.com/code/nadjibtitaouine/idea-track) |
+| **Helios Vision** | **CNN (ResNet50)** | **Dust Detection.** A Computer Vision model trained on the *Solar Panel Dust Dataset* to detect soiling and trigger maintenance alerts to prevent efficiency loss. | [🔗 View Kaggle Notebook (CNN)](https://www.kaggle.com/code/berghouti/dust-detection) |
+
 
 ---
 
