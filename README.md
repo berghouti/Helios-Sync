@@ -1,4 +1,4 @@
-# ☀ Helios-Sync: Intelligent Microgrid Energy Management
+#  Helios-Sync: Intelligent Microgrid Energy Management
 
 ![Status](https://img.shields.io/badge/Status-Prototype_Ready-success)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
